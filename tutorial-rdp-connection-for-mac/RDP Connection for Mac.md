@@ -43,3 +43,5 @@ In this tutorial, you do the following actions:
     ![Connect to VM UI](../media/tutorial-rdp-connection-for-mac/connect-linux-vm.png)
 2. Click **Continue** if you receive the below error 
     ![Certificate Error](../media/tutorial-rdp-connection-for-mac/certificate-error.png)
+3. The VM's UI should open up
+    ![VM UI](../media/tutorial-rdp-connection-for-mac/vm-ui.png)
